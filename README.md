@@ -12,9 +12,9 @@ Team-working on AIoT Software Development Project
    
 - AC #2: At morning, light don't turn on when I walk pass.
      
-2. As a maintanence staff, I want to receive notification if any park lights don't turn on when it's dark.
+2. As a maintenance staff, I want to receive notification if any park lights don't turn on when it's dark.
 
-- AC#1: If light doesn't turn on at night, notification sent to maintanence staff.
+- AC#1: If light doesn't turn on at night, notification sent to maintenance staff.
 
 
 # Members
