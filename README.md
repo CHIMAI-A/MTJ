@@ -15,6 +15,7 @@ Team-working on AIoT Software Development Project
 2. As a maintenance staff, I want to receive notification if any park lights don't turn on when it's dark.
 
 - AC#1: If light doesn't turn on at night, notification sent to maintenance staff.
+- AC#2: Can check all park lights from main control pannel at the office.
 
 
 # Members
