@@ -1,6 +1,7 @@
 # MTJ
 Team-working on AIoT Software Development Project
 
+## Domain: Automatic Park Lighting 
 ## Stakeholder
 1. Park visitor
 2. Maintanence staff
