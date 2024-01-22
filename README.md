@@ -17,6 +17,8 @@ Team-working on AIoT Software Development Project
 
 - AC#1: If light doesn't turn on at night, notification sent to maintenance staff.
 - AC#2: Can check all park lights from main control pannel at the office.
+- AC#3: Enable to monitor crowd density in real-time
+- AC#4: Enable to identify popular areas within the park during specific times. Use this information to suggest optimal locations and timings for events and activities.
 
 
 # Members
