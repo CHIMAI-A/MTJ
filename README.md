@@ -14,11 +14,11 @@ Team-working on AIoT Software Development Project
   
 - AC #2: As a registered user, I can log in to access data.
      
-2. As a maintenance staff, I want to receive notification if any park lights don't turn on when it's dark.
+2. As a park administrator, I want to automate the park's lighting system to optimize energy consumption based on daylight conditions.
 
-- AC #1: I want to receive notification if lights do not turn on at night time.
+- AC #1: The system changes how bright the park lights are or turns them on/off by itself using readings from special sensors that measure the current light around.
   
-- AC #2: I can check all park lights from main control pannel at the office.
+- AC #2: The system gathers and saves past information about light levels, energy use, and how the system works. This info helps park management staff study how the system is used, find ways to make it better, and set up lighting schedules for more efficiency
 
 3. As a park management staff, I want to monitor crowd situations so that I can identify popular spots.
    
