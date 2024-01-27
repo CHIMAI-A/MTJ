@@ -32,6 +32,9 @@ Team-working on AIoT Software Development Project
    
 - AC #2: At morning, light don't turn on when I walk pass.
 
+## Software Models
+3. Flowchart User Story #3
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/9c3f926c-f44d-46f1-a8c0-0c3a15625d4a)
 
 # Members
 Miss Thi Chi Mai Le 6622040290
