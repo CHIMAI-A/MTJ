@@ -43,7 +43,7 @@ Team-working on AIoT Software Development Project
    
 4. Flowchart User Story #4
 
-   ![User_Story_4](https://github.com/CHIMAI-A/MTJ/assets/156741445/841a4843-6372-4bc3-a60f-ce9500fee399)
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/367475ca-54f4-4b57-8c5e-429ece65a777)
 
 
 # Members
