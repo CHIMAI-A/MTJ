@@ -39,7 +39,7 @@ Team-working on AIoT Software Development Project
    
 4. Flowchart User Story #4
    
-   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/836fd309-3668-4d0c-8349-61b1462de4f3)
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/a5623cf4-77b5-4f01-b30c-6daed82a087b)
 
 # Members
 Miss Thi Chi Mai Le 6622040290
