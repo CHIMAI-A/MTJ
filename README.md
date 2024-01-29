@@ -45,9 +45,11 @@ Team-working on AIoT Software Development Project
 
 2. User Story #2
    - Flowchart
+     
    ![image](https://github.com/CHIMAI-A/MTJ/assets/64695311/d172ece2-0ba2-4818-ae44-0ad2150f5f53)
 
    - Sequence Diagram
+     
    - ![image](https://github.com/CHIMAI-A/MTJ/assets/64695311/27020fb1-0b42-47b6-b2b7-6a0a18976838)
 
    
