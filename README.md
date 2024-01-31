@@ -46,7 +46,9 @@ Team-working on AIoT Software Development Project
    ![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/c4d32aaf-9ac4-467e-bb82-9804294acc56)
 
 
+## System Architecture
 
+![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/eb650d41-c1c2-4588-9dbb-1295697e9043)
 
 
 # Members
