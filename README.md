@@ -3,8 +3,7 @@ Team-working on AIoT Software Development Project
 
 ## Domain: Automatic Park Lighting 
 ## Stakeholder
-1. Park visitor
-2. Park staff
+1. Park staff
 
 ## User Stories
 1. As a park staff, I want to automate the park's lighting system to optimize energy consumption based on daylight conditions.
