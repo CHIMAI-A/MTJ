@@ -29,6 +29,9 @@ Team-working on AIoT Software Development Project
 ## Software Models
 
 - Flowchart
+  
+![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/71195398-4e7d-444f-bb23-3ce6cae72537)
+
 
 
 
