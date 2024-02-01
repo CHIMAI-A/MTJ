@@ -14,6 +14,8 @@ Team-working on AIoT Software Development Project
 
 - AC #3: I want to utilize this information for park management to study system usage, identify improvement opportunities, and establish more efficient lighting schedules.
 
+- AC #3: I want the system to automatically notify the responsible person the moment an issue arises in the lighting system, minimizing downtime and ensuring fast resolution.
+
 2. As a park staff, I want to monitor crowd situations so that I can identify popular spots.
    
 - AC #1: I want to monitor crowd density in real-time.
