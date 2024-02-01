@@ -22,6 +22,8 @@ Team-working on AIoT Software Development Project
 - AC #1: I want to monitor crowd density in real-time.
 
 - AC #2: I want to identify popular areas within the park during specific times. Use this information to suggest optimal locations and timings for events and activities.
+  
+- AC #3: I want to modify the lighting intensity during nighttime when there is an increased crowd density, with the primary goal of ensuring safety.
 
 
 ## Software Models
