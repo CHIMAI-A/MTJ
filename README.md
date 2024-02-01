@@ -28,26 +28,8 @@ Team-working on AIoT Software Development Project
 
 ## Software Models
 
+- Flowchart
 
-1. User Story #1
-   - Flowchart
-     
-   ![image](https://github.com/CHIMAI-A/MTJ/assets/64695311/d172ece2-0ba2-4818-ae44-0ad2150f5f53)
-
-   - Sequence Diagram
-     
-   - ![image](https://github.com/CHIMAI-A/MTJ/assets/64695311/27020fb1-0b42-47b6-b2b7-6a0a18976838)
-
-   
-2. User Story #2
-   
-   - Flowchart
-     
-   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/9c3f926c-f44d-46f1-a8c0-0c3a15625d4a)
-
-   - Sequence Diagram
-     
-   ![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/c4d32aaf-9ac4-467e-bb82-9804294acc56)
 
 
 ## System Architecture
