@@ -7,7 +7,9 @@ Team-working on AIoT Software Development Project
 
 ## User Stories
 
+1. As a park staff, I want to automate the park's lighting system to optimize energy consumption based on daylight conditions.
 
+- AC #1: I want the system to autonomously adjust the brightness of park lights or control their on/off status based on readings from specialized sensors that measure the current ambient light conditions.
 
 
 ## Software Models
