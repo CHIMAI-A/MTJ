@@ -6,21 +6,7 @@ Team-working on AIoT Software Development Project
 1. Park staff
 
 ## User Stories
-1. As a park staff, I want to automate the park's lighting system to optimize energy consumption based on daylight conditions.
 
-- AC #1: I want the system to autonomously adjust the brightness of park lights or control their on/off status based on readings from specialized sensors that measure the     current ambient light conditions.
-  
-- AC #2: I want the system to accumulate and store historical data regarding light levels, energy usage, and operational functionality.
-
-- AC #3: I want to utilize this information for park management to study system usage, identify improvement opportunities, and establish more efficient lighting schedules.
-
-- AC #4: I want the system to automatically notify the responsible person the moment an issue arises in the lighting system, minimizing downtime and ensuring fast resolution.
-
-2. As a park staff, I want to monitor crowd situations so that I can identify popular spots.
-   
-- AC #1: I want to monitor crowd density in real-time.
-  
-- AC #2: I want to identify popular areas within the park during specific times. Use this information to suggest optimal locations and timings for events and activities.
 
 
 
