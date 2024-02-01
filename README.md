@@ -11,6 +11,10 @@ Team-working on AIoT Software Development Project
 
 - AC #1: I want the system to autonomously adjust the brightness of park lights or control their on/off status based on readings from specialized sensors that measure the current ambient light conditions.
 
+- AC #2: I want the system to accumulate and store historical data regarding light levels, energy usage, and operational functionality.
+
+- AC #3: I want to utilize this information for park management to study system usage, identify improvement opportunities, and establish more efficient lighting schedules.
+
 
 ## Software Models
 
