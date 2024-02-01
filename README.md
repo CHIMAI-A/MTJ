@@ -15,6 +15,10 @@ Team-working on AIoT Software Development Project
 
 - AC #3: I want to utilize this information for park management to study system usage, identify improvement opportunities, and establish more efficient lighting schedules.
 
+- AC #4: I want to be notified the moment an issue arises in the lighting system, minimizing downtime and ensuring fast resolution.
+
+2. As a park staff, I want to monitor crowd situations so that I can identify popular spots.
+
 
 ## Software Models
 
