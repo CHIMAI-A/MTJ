@@ -30,9 +30,7 @@ Team-working on AIoT Software Development Project
 
 - Flowchart
   
-![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/71195398-4e7d-444f-bb23-3ce6cae72537)
-
-
+![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/b1eb7765-0a8a-452f-8b64-5145024e3149)
 
 
 ## System Architecture
