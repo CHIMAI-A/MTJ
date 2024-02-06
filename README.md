@@ -32,6 +32,9 @@ Team-working on AIoT Software Development Project
   
 ![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/b1eb7765-0a8a-452f-8b64-5145024e3149)
 
+- Sequence diagram
+
+![image](https://github.com/CHIMAI-A/MTJ/assets/64695311/abd5858f-9554-40e8-b7db-47d11825e389)
 
 ## System Architecture
 
