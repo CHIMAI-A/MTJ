@@ -36,6 +36,11 @@ Team-working on AIoT Software Development Project
 
 ![image](https://github.com/CHIMAI-A/MTJ/assets/64695311/abd5858f-9554-40e8-b7db-47d11825e389)
 
+- Data flow
+
+![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/c53d161e-c751-42a9-b1e8-e8f928852025)
+
+
 ## System Architecture
 
 ![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/eb650d41-c1c2-4588-9dbb-1295697e9043)
