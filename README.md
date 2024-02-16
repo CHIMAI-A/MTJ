@@ -40,6 +40,11 @@ Team-working on AIoT Software Development Project
 
 ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/c53d161e-c751-42a9-b1e8-e8f928852025)
 
+- Data modeling  class diagram
+
+![Lec 05](https://github.com/CHIMAI-A/MTJ/assets/64695311/0abe512b-a569-4724-96e0-c271781d8026)
+
+
 
 ## System Architecture
 
