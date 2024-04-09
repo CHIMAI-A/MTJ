@@ -1,11 +1,23 @@
 {
 	"folders": [
 		{
+			"name": "edge_impulse_camera_live_feed_ver5",
 			"path": "edge_impulse_camera_live_feed_ver5"
 		},
 		{
+			"name": "edge_impulse_camera_live_feed_ver4",
 			"path": "edge_impulse_camera_live_feed_ver4"
+		},
+		{
+			"path": "entrance_cam"
+		},
+		{
+			"path": "exit_cam"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
 }
