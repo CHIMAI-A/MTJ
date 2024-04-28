@@ -1,0 +1,21 @@
+{
+  "name": "edge_impulse_camera_live_feed_ver4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.2.4",
+    "mqtt": "^5.5.0",
+    "shortid": "^2.2.16"
+  }
+}
