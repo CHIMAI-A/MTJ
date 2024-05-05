@@ -3,34 +3,46 @@ Team-working on AIoT Software Development Project
 
 ## Domain: Automatic Park Lighting 
 ## Stakeholder
-1. Park staff
+1.  Park management staff
 
+## Hardware
+1. LILYGO T-SIMCAM ESP32-S3
+2. ESP WROOM-32
+3. LDR Light-Sensor Module
+4. 5mm
+
+## Overview
+We combined different devices to develop an integrated system that combines smart lighting and crowd management functionalities in the park. This system utilizes camera and light-related sensors to achieve its objectives.
+The crowd management component involves the deployment of an AI model, which is uploaded to the camera board (ESP32-S3) for crowd detection both during the day and at night.
+Simultaneously, the smart lighting system leverages LDR sensors and LED lights. It works in tandem with the crowd detection system on the cameras to dynamically adjust lighting levels in the park. During periods of increased crowd activity, particularly at night, the system enhances lighting to ensure better visibility and safety.
+
+   
 ## User Stories
 
-1. As a park staff, I want to automate the park's lighting system to optimize energy consumption based on daylight conditions.
+As a park staff, I want to automate the park's lighting system to optimize energy consumption based on daylight conditions.
 
-- AC #1: I want the system to autonomously adjust the brightness of park lights or control their on/off status based on readings from specialized sensors that measure the current ambient light conditions.
+AC #1: I want the system to autonomously adjust the brightness of park lights or control their on/off status based on readings from specialised sensors that measure the current ambient light conditions.
 
-- AC #2: I want the system to accumulate and store historical data regarding light levels, energy usage, and operational functionality.
+AC #2: I want the system to accumulate and store historical data regarding light levels, and operational functionality.
 
-- AC #3: I want to utilize this information for park management to study system usage, identify improvement opportunities, and establish more efficient lighting schedules.
+AC #3: I want to utilize this information for park management to study system usage, identify improvement opportunities, and establish more efficient lighting schedules.
 
-- AC #4: I want to be notified the moment an issue arises in the lighting system, minimizing downtime and ensuring fast resolution.
+AC #4: I want to be notified the moment an issue arises in the lighting system, minimizing downtime and ensuring fast resolution.
 
-2. As a park staff, I want to monitor crowd situations so that I can identify popular spots.
-   
-- AC #1: I want to monitor crowd density in real-time.
+As a park staff, I want to monitor crowd situations so that I can identify popular spots.
+AC #1: I want to monitor crowd density in real-time.
 
-- AC #2: I want to identify popular areas within the park during specific times. Use this information to suggest optimal locations and timings for events and activities.
-  
-- AC #3: I want to modify the lighting intensity during nighttime when there is an increased crowd density, with the primary goal of ensuring safety.
+AC #2: I want to identify popular areas within the park during specific times. Use this information to suggest optimal locations and timings for events and activities.
+
+AC #3: I want to modify the lighting intensity during nighttime when there is an increased crowd density, with the primary goal of ensuring safety.
 
 
 ## Software Models
 
 - Flowchart
   
-![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/b1eb7765-0a8a-452f-8b64-5145024e3149)
+![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3b3c5f75-3d79-40e5-8893-2ca0cb19aba4)
+
 
 - Sequence diagram
 
