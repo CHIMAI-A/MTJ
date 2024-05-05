@@ -19,7 +19,7 @@ Simultaneously, the smart lighting system leverages LDR sensors and LED lights. 
    
 ## User Stories
 
-As a park staff, I want to automate the park's lighting system to optimize energy consumption based on daylight conditions.
+- As a park staff, I want to automate the park's lighting system to optimize energy consumption based on daylight conditions.
 
 AC #1: I want the system to autonomously adjust the brightness of park lights or control their on/off status based on readings from specialised sensors that measure the current ambient light conditions.
 
@@ -29,7 +29,8 @@ AC #3: I want to utilize this information for park management to study system us
 
 AC #4: I want to be notified the moment an issue arises in the lighting system, minimizing downtime and ensuring fast resolution.
 
-As a park staff, I want to monitor crowd situations so that I can identify popular spots.
+- As a park staff, I want to monitor crowd situations so that I can identify popular spots.
+
 AC #1: I want to monitor crowd density in real-time.
 
 AC #2: I want to identify popular areas within the park during specific times. Use this information to suggest optimal locations and timings for events and activities.
