@@ -94,6 +94,11 @@ Serial monitor camera
 
 https://github.com/CHIMAI-A/MTJ/assets/146721485/b0c83434-5d29-4afa-9e97-6da709721e3d
 
+Light System Development 
+
+![image](https://github.com/CHIMAI-A/MTJ/assets/64695311/5b70659b-e8bc-4589-b084-74344eacdd80)
+
+
 
 # Members
 Miss Thi Chi Mai Le 6622040290
