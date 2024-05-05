@@ -73,8 +73,13 @@ Simultaneously, the smart lighting system leverages LDR sensors and LED lights. 
 
 ## Camera - AI Model Development
 
-
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/44266252-82f3-4558-834c-a6e03456be87)
+   
+Demonstration #1
+
+
+https://github.com/CHIMAI-A/MTJ/assets/146721485/bfb0f932-c674-40bb-a74c-2cb126dc07f3
+
 
 ## Deploying Model
 
