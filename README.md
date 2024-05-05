@@ -44,7 +44,7 @@ Simultaneously, the smart lighting system leverages LDR sensors and LED lights. 
   AC #3: I want to modify the lighting intensity during nighttime when there is an increased crowd density, with the primary goal of ensuring safety.
       
 
-## 
+## System Architecture
 
 - Flowchart
   
@@ -68,7 +68,6 @@ Simultaneously, the smart lighting system leverages LDR sensors and LED lights. 
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/44266252-82f3-4558-834c-a6e03456be87)
 
-## System Architecture
 
 
 # Members
