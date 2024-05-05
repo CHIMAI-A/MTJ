@@ -44,7 +44,7 @@ AC #2: I want to identify popular areas within the park during specific times. U
 AC #3: I want to modify the lighting intensity during nighttime when there is an increased crowd density, with the primary goal of ensuring safety.
 
 
-## Software Models
+## System Architecture
 
 - Flowchart
   
@@ -67,11 +67,6 @@ AC #3: I want to modify the lighting intensity during nighttime when there is an
 ## Camera - AI Model Development
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/44266252-82f3-4558-834c-a6e03456be87)
-
-
-## System Architecture
-
-   ![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/eb650d41-c1c2-4588-9dbb-1295697e9043)
 
 
 # Members
