@@ -9,7 +9,7 @@ Team-working on AIoT Software Development Project
 1. LILYGO T-SIMCAM ESP32-S3
 2. ESP WROOM-32
 3. LDR Light-Sensor Module
-4. 5mm
+4. 5mm LED
 
 ## Overview
 We combined different devices to develop an integrated system that combines smart lighting and crowd management functionalities in the park. This system utilizes camera and light-related sensors to achieve its objectives.
