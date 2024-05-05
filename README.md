@@ -47,25 +47,25 @@ Simultaneously, the smart lighting system leverages LDR sensors and LED lights. 
 ## System Architecture
 
 
-
-- Flowchart
+## Flowchart
   
   
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3b3c5f75-3d79-40e5-8893-2ca0cb19aba4)
+   
 
-
-- Sequence diagram
+## Sequence diagram
 
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/64695311/abd5858f-9554-40e8-b7db-47d11825e389)
+   
 
-- Data flow
+## Data flow
   
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/d9ca2f64-d08f-4a67-8715-e5fd4dc98f28)
+   
 
-
-- Data modeling class diagram
+## Data modeling class diagram
   
 
    ![Lec 05](https://github.com/CHIMAI-A/MTJ/assets/64695311/0abe512b-a569-4724-96e0-c271781d8026)
