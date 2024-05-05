@@ -56,8 +56,8 @@ Simultaneously, the smart lighting system leverages LDR sensors and LED lights. 
 ## Sequence diagram
 
 
-   ![image](https://github.com/CHIMAI-A/MTJ/assets/64695311/abd5858f-9554-40e8-b7db-47d11825e389)
-   
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/84bed13c-472d-4afc-832a-75b39fb2ec28)
+
 
 ## Data flow
   
