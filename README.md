@@ -68,6 +68,13 @@ Simultaneously, the smart lighting system leverages LDR sensors and LED lights. 
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/44266252-82f3-4558-834c-a6e03456be87)
 
+## Deploying Model
+
+
+https://github.com/CHIMAI-A/MTJ/assets/146721485/8c979ee9-5b04-4583-bff2-81a2930dfa9e
+
+
+https://github.com/CHIMAI-A/MTJ/assets/146721485/2b8df585-fb21-49bc-985f-4c32788660ca
 
 
 # Members
