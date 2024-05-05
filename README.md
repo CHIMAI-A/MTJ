@@ -23,7 +23,7 @@ We combined different devices to develop an integrated system that combines smar
 Simultaneously, the smart lighting system leverages LDR sensors and LED lights. It works in tandem with the crowd detection system on the cameras to dynamically adjust lighting levels in the park. During periods of increased crowd activity, particularly at night, the system enhances lighting to ensure better visibility and safety.
 
    
-## User Stories
+## User Stories and Acceptance Criteria
 
 - As a park staff, I want to automate the park's lighting system to optimize energy consumption based on daylight conditions.
 
@@ -44,7 +44,7 @@ Simultaneously, the smart lighting system leverages LDR sensors and LED lights. 
   AC #3: I want to modify the lighting intensity during nighttime when there is an increased crowd density, with the primary goal of ensuring safety.
       
 
-## System Architecture
+## 
 
 - Flowchart
   
