@@ -57,9 +57,10 @@ AC #3: I want to modify the lighting intensity during nighttime when there is an
 
 - Data flow
 
-![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/c53d161e-c751-42a9-b1e8-e8f928852025)
+![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/d9ca2f64-d08f-4a67-8715-e5fd4dc98f28)
 
-- Data modeling  class diagram
+
+- Data modeling class diagram
 
 ![Lec 05](https://github.com/CHIMAI-A/MTJ/assets/64695311/0abe512b-a569-4724-96e0-c271781d8026)
 
