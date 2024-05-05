@@ -10,6 +10,8 @@ Team-working on AIoT Software Development Project
 2. ESP WROOM-32
 3. LDR Light-Sensor Module
 4. 5mm LED
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/22e59ff4-84b8-48f0-b5d1-8182098f0f84)
+
 
 ## Overview
 We combined different devices to develop an integrated system that combines smart lighting and crowd management functionalities in the park. This system utilizes camera and light-related sensors to achieve its objectives.
