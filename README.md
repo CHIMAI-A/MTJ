@@ -64,6 +64,9 @@ AC #3: I want to modify the lighting intensity during nighttime when there is an
 
 ![Lec 05](https://github.com/CHIMAI-A/MTJ/assets/64695311/0abe512b-a569-4724-96e0-c271781d8026)
 
+## Camera - AI Model Development
+
+![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/44266252-82f3-4558-834c-a6e03456be87)
 
 
 ## System Architecture
