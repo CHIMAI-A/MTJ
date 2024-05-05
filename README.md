@@ -46,35 +46,49 @@ Simultaneously, the smart lighting system leverages LDR sensors and LED lights. 
 
 ## System Architecture
 
+
+
 - Flowchart
+  
   
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3b3c5f75-3d79-40e5-8893-2ca0cb19aba4)
 
 
 - Sequence diagram
 
+
    ![image](https://github.com/CHIMAI-A/MTJ/assets/64695311/abd5858f-9554-40e8-b7db-47d11825e389)
 
 - Data flow
+  
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/d9ca2f64-d08f-4a67-8715-e5fd4dc98f28)
 
 
 - Data modeling class diagram
+  
 
    ![Lec 05](https://github.com/CHIMAI-A/MTJ/assets/64695311/0abe512b-a569-4724-96e0-c271781d8026)
 
+
 ## Camera - AI Model Development
+
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/44266252-82f3-4558-834c-a6e03456be87)
 
 ## Deploying Model
 
+Build camera
 
-https://github.com/CHIMAI-A/MTJ/assets/146721485/8c979ee9-5b04-4583-bff2-81a2930dfa9e
+https://github.com/CHIMAI-A/MTJ/assets/146721485/75a1c149-d433-472e-85e4-0a519bd32872
 
+Upload camera
 
-https://github.com/CHIMAI-A/MTJ/assets/146721485/2b8df585-fb21-49bc-985f-4c32788660ca
+https://github.com/CHIMAI-A/MTJ/assets/146721485/04d46723-8555-4476-95ba-b9bc5027ec7f
+
+Serial monitor camera
+
+https://github.com/CHIMAI-A/MTJ/assets/146721485/b0c83434-5d29-4afa-9e97-6da709721e3d
 
 
 # Members
