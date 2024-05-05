@@ -16,7 +16,7 @@ Team-working on AIoT Software Development Project
 
 ## Overview
 
-![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/98aab676-9f42-4344-a8dc-64c4f8c607e8)
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/98aab676-9f42-4344-a8dc-64c4f8c607e8)
 
 
 We combined different devices to develop an integrated system that combines smart lighting and crowd management functionalities in the park. This system utilizes camera and light-related sensors to achieve its objectives.The crowd management component involves the deployment of an AI model, which is uploaded to the camera board (ESP32-S3) for crowd detection both during the day and at night.
@@ -48,30 +48,30 @@ AC #3: I want to modify the lighting intensity during nighttime when there is an
 
 - Flowchart
   
-![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3b3c5f75-3d79-40e5-8893-2ca0cb19aba4)
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3b3c5f75-3d79-40e5-8893-2ca0cb19aba4)
 
 
 - Sequence diagram
 
-![image](https://github.com/CHIMAI-A/MTJ/assets/64695311/abd5858f-9554-40e8-b7db-47d11825e389)
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/64695311/abd5858f-9554-40e8-b7db-47d11825e389)
 
 - Data flow
 
-![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/d9ca2f64-d08f-4a67-8715-e5fd4dc98f28)
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/d9ca2f64-d08f-4a67-8715-e5fd4dc98f28)
 
 
 - Data modeling class diagram
 
-![Lec 05](https://github.com/CHIMAI-A/MTJ/assets/64695311/0abe512b-a569-4724-96e0-c271781d8026)
+   ![Lec 05](https://github.com/CHIMAI-A/MTJ/assets/64695311/0abe512b-a569-4724-96e0-c271781d8026)
 
 ## Camera - AI Model Development
 
-![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/44266252-82f3-4558-834c-a6e03456be87)
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/44266252-82f3-4558-834c-a6e03456be87)
 
 
 ## System Architecture
 
-![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/eb650d41-c1c2-4588-9dbb-1295697e9043)
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/eb650d41-c1c2-4588-9dbb-1295697e9043)
 
 
 # Members
