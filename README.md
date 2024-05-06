@@ -98,7 +98,8 @@ For this step, labeling was done manually on the Edge Impulse website. After lab
 
 3. Designing Impulse
 
-   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/0b9a12c1-94e0-420c-a1c8-e03c7c9229ee)
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3890bd8d-3d37-453c-a789-4227414ba917)
+
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/5dbe7d39-038a-4bb5-83dc-acc2a0d5d99a)
 
