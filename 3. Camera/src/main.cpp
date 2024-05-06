@@ -27,8 +27,8 @@
 #define MQTT_PERSON_TOPIC  "esp32/park/cam/person/dev_A" 
 #define MQTT_CAMERA_TOPIC "esp32/park/cam/status"
 
-#define WIFI_SSID "AndroidAP3D06"
-#define WIFI_PASSWORD "dapy6319"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // global variables
 WiFiClient wifi_client;
