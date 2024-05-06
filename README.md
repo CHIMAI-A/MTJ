@@ -101,8 +101,8 @@ Light System Development
 
 
 # Members
-## Miss Thi Chi Mai Le 6622040290
+   - Miss Thi Chi Mai Le 6622040290
 
-## Mr.  Than Zaw Win 6622040654
+   - Mr.  Than Zaw Win 6622040654
 
-## Miss Joanna Sophie Abraham 6614552643
+   - Miss Joanna Sophie Abraham 6614552643
