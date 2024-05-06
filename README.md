@@ -75,6 +75,11 @@ Demonstration #1
 
 https://github.com/CHIMAI-A/MTJ/assets/146721485/bfb0f932-c674-40bb-a74c-2cb126dc07f3
 
+Demostration #2
+
+https://github.com/CHIMAI-A/MTJ/assets/146721485/033cb1ac-ba42-480d-8e9a-0d692adab594
+
+
 1. Collecting Images
    
 In this step, we upload the code and build the code. After success, we Run the Python file and the screen will display the output as shown below including the following contents:
