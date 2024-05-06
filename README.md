@@ -99,21 +99,23 @@ For this step, labeling was done manually on the Edge Impulse website. After lab
 3. Designing Impulse
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3890bd8d-3d37-453c-a789-4227414ba917)
+   
 
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/b1e9b5ba-0c6a-4401-b0ca-cd09103020ae)
+   
 
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3ecc58ea-c1cb-4395-aeb0-bd52420fff25)
 
 
-4. Testing Model
+5. Testing Model
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/04624a7e-f843-4fef-9c1c-68f704eecf05)
 
-5. Deploying Model
+6. Deploying Model
 
-   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3a7d97fd-4efd-4485-bec1-93412349a166)
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/fa9bde5b-7d7e-4334-8e82-04f28e33944a)
 
 
    Build camera
