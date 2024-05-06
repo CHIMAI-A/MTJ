@@ -98,14 +98,14 @@ For this step, labeling was done manually on the Edge Impulse website. After lab
 
 3. Designing Impulse
 
-Create impulse
+   Create impulse
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3890bd8d-3d37-453c-a789-4227414ba917)
    
-Image
+   Image
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/b1e9b5ba-0c6a-4401-b0ca-cd09103020ae)
    
-Object detection
+   Object detection
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3ecc58ea-c1cb-4395-aeb0-bd52420fff25)
 
