@@ -140,7 +140,7 @@ https://github.com/CHIMAI-A/MTJ/assets/146721485/b0c83434-5d29-4afa-9e97-6da7097
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/1b4dbd76-96b0-4f04-b0e7-3c28f0afd3ff)
 
-   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/052e62bd-3e14-4e3a-ac7a-1cd2789058fb)
+      ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/052e62bd-3e14-4e3a-ac7a-1cd2789058fb)
 
 2. MongoDB
 
