@@ -93,6 +93,11 @@ Demonstration #1
 
 https://github.com/CHIMAI-A/MTJ/assets/146721485/bfb0f932-c674-40bb-a74c-2cb126dc07f3
 
+Demonstation #2
+
+https://github.com/CHIMAI-A/MTJ/assets/146721485/9905425b-37c7-4a92-89df-494e9f067b33
+
+
 ## Light System Development 
 
 ![image](https://github.com/CHIMAI-A/MTJ/assets/64695311/5b70659b-e8bc-4589-b084-74344eacdd80)
