@@ -104,7 +104,8 @@ For this step, labeling was done manually on the Edge Impulse website. After lab
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/b1e9b5ba-0c6a-4401-b0ca-cd09103020ae)
 
 
-   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/1318d446-fa8d-4e07-a392-41e70d26c451)
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3ecc58ea-c1cb-4395-aeb0-bd52420fff25)
+
 
 4. Testing Model
 
