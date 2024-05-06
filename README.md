@@ -1,4 +1,4 @@
-# MTJ
+# MTJ - ICT720 Project
 Team-working on AIoT Software Development Project
 
 ## Domain: Automatic Park Lighting 
