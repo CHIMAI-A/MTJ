@@ -101,7 +101,8 @@ For this step, labeling was done manually on the Edge Impulse website. After lab
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3890bd8d-3d37-453c-a789-4227414ba917)
 
 
-   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/5dbe7d39-038a-4bb5-83dc-acc2a0d5d99a)
+   ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/b1e9b5ba-0c6a-4401-b0ca-cd09103020ae)
+
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/1318d446-fa8d-4e07-a392-41e70d26c451)
 
