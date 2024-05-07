@@ -100,11 +100,13 @@ Next, we collected images using the ESP32-S3 camera by uploading the code that w
 
 2. Labeling Images
 
-For this step, labeling was done manually on the Edge Impulse website. After labeling the images, the dataset was divided into training and testing data with a ratio of 8:2
+For this stage, labeling was done manually on the Edge Impulse website. After labeling the images, the dataset was divided into training and testing data with a ratio of 8:2
    
    ![Label ](https://github.com/CHIMAI-A/MTJ/assets/146721485/c97e7707-e915-4cd4-a49f-6fdb1386567b)
 
 3. Designing Impulse
+
+   In this stage, we designed our impulse for the sake of creating and training the model. We configurated our images, set parameters and generated features. We also needed to set the settings for the neural network that will be used for training.
 
    Create impulse
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3890bd8d-3d37-453c-a789-4227414ba917)
@@ -118,11 +120,16 @@ For this step, labeling was done manually on the Edge Impulse website. After lab
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/3ecc58ea-c1cb-4395-aeb0-bd52420fff25)
 
 
-5. Testing Model
+4. Testing Model
+
+   For testing the model, we took pictures at different light conditions and used the model to detect the number of people in a crowd.
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/04624a7e-f843-4fef-9c1c-68f704eecf05)
+   
 
-6. Deploying Model
+5. Deploying Model
+
+   Once we confirmend the performance we then deployed the created model using Arduino Library. We also build and uploaded the code, and also tested the model results on the serial monitor.
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/fa9bde5b-7d7e-4334-8e82-04f28e33944a)
 
@@ -138,6 +145,9 @@ https://github.com/CHIMAI-A/MTJ/assets/146721485/04d46723-8555-4476-95ba-b9bc502
    Serial monitor camera
 
 https://github.com/CHIMAI-A/MTJ/assets/146721485/b0c83434-5d29-4afa-9e97-6da709721e3d
+
+### MQTT
+
 
 
 ## Light System Development 
