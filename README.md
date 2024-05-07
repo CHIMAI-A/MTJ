@@ -177,10 +177,13 @@ https://github.com/CHIMAI-A/MTJ/assets/146721485/033cb1ac-ba42-480d-8e9a-0d692ad
 1. Demostration for one zone
 
    
-3. Demostration for two zones
+2. Demostration for two zones
 
 
-https://github.com/CHIMAI-A/MTJ/assets/146721485/fb17148a-0c99-4923-a1c6-0682d57a36c6
+
+
+https://github.com/CHIMAI-A/MTJ/assets/146721485/e55cb5a0-946f-40de-afaf-3d615456bf4a
+
 
 
    
