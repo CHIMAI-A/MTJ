@@ -176,15 +176,15 @@ https://github.com/CHIMAI-A/MTJ/assets/146721485/033cb1ac-ba42-480d-8e9a-0d692ad
 ## Automatic Park Lighting Demostration
 1. Demostration for one zone
 
+![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/e0540955-3a0f-4243-b79f-7afef03696ed)
+
+More details: https://drive.google.com/file/d/18h2TR_FbEkke44cFyq9g43eMMhaiwbzx/view?usp=sharing
+
    
 2. Demostration for two zones
 
 
-
-
 https://github.com/CHIMAI-A/MTJ/assets/146721485/e55cb5a0-946f-40de-afaf-3d615456bf4a
-
-
 
    
 # Members
