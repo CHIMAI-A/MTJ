@@ -173,7 +173,17 @@ https://github.com/CHIMAI-A/MTJ/assets/146721485/033cb1ac-ba42-480d-8e9a-0d692ad
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/78de7f32-bf6f-4577-a450-fd84b627a46e)
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/bc359b7e-e3bd-40c4-a61c-c693df5e2e32)
 
+## Automatic Park Lighting Demostration
+1. Demostration for one zone
 
+   
+3. Demostration for two zones
+
+
+https://github.com/CHIMAI-A/MTJ/assets/146721485/fb17148a-0c99-4923-a1c6-0682d57a36c6
+
+
+   
 # Members
    - Miss Thi Chi Mai Le 6622040290
 
