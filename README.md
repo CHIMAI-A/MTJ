@@ -73,14 +73,6 @@ Simultaneously, the smart lighting system leverages LDR sensors and LED lights. 
 ## Camera - AI Model Development
 
    ![image](https://github.com/CHIMAI-A/MTJ/assets/146721485/44266252-82f3-4558-834c-a6e03456be87)
-   
-Demonstration #1
-
-https://github.com/CHIMAI-A/MTJ/assets/146721485/bfb0f932-c674-40bb-a74c-2cb126dc07f3
-
-Demostration #2
-
-https://github.com/CHIMAI-A/MTJ/assets/146721485/033cb1ac-ba42-480d-8e9a-0d692adab594
 
 
 1. Collecting Images
@@ -147,7 +139,23 @@ https://github.com/CHIMAI-A/MTJ/assets/146721485/04d46723-8555-4476-95ba-b9bc502
 https://github.com/CHIMAI-A/MTJ/assets/146721485/b0c83434-5d29-4afa-9e97-6da709721e3d
 
 ### MQTT
+![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/2da88698-a970-45fa-93aa-2d2c2ac62003)
 
+![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/2cac5b45-affc-4570-a863-4bd08b16c95d)
+
+
+### MongoDB
+![image](https://github.com/CHIMAI-A/MTJ/assets/156741445/e65f40e1-3b47-4521-be8c-5e85cbb37e66)
+
+### Demonstration #1
+This demonstration shows the AI model from edge impulse working together with the MQTT Broker and MongoDB.
+
+https://github.com/CHIMAI-A/MTJ/assets/146721485/bfb0f932-c674-40bb-a74c-2cb126dc07f3
+
+### Demostration #2
+This demonstration shows in addition to "Demonstration 1" where streamlit was used to create a user interface for park management staff so that they can login/signup to access the dashboard.
+
+https://github.com/CHIMAI-A/MTJ/assets/146721485/033cb1ac-ba42-480d-8e9a-0d692adab594
 
 
 ## Light System Development 
